@@ -26,7 +26,10 @@ rating (reyting).
 Quyidagi metodlarni qo‘shing:
 increase_duration(minutes) — filmning davomiyligini minutes minutga oshirsin.
 Agar davomiylik 150 minutdan oshsa, reytingni 0.5 ga kamaytiruvchi metod yozing.
+
+
 4 masala  ⇒  
+
 Telefon nomli class yarating.
 Elementlari:
 
@@ -34,6 +37,7 @@ Telefon nomi;
 Telefon RAM hajmi;
 Narxi;
 Ishlab chiqaruvchi kompaniya.
+
 Shart:
 
 Kiritish va chiqarish methodlarini yozing.
@@ -109,6 +113,8 @@ Shart:
 
 5 ta obyekt yarating.
 O‘rtacha bahosi 80 dan yuqori va stipendiya miqdori 1 mln so‘mdan katta bo‘lgan talabalar haqida ma’lumot chiqaring.
+
+
 5 - masala ⇒
 Shopping Cart
 Tavsif:
